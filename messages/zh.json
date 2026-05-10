@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我",
+    "services": "服务",
+    "experience": "经验",
+    "projects": "项目",
+    "contact": "联系"
+  },
+  "intro": {
+    "available": "现在可以工作！",
+    "location": "目前位于印度塔纳武尔 — 接受远程工作和搬迁",
+    "greeting": "你好，我是",
+    "name": "Arockia Bilgates",
+    "title": "专注于MERN和AI应用的全栈开发工程师。",
+    "description": "我使用React、Next.js、Node.js、Express和MongoDB构建可扩展的生产级Web应用程序——以AI集成为核心。超过3年交付REST API、实时系统和Gemini AI产品的实践经验。",
+    "getInTouch": "联系我",
+    "viewProjects": "查看项目",
+    "downloadCV": "下载简历"
+  },
+  "about": {
+    "heading": "关于我",
+    "paragraph1": "我是Arockia Bilgates，印度塔纳武尔的全栈软件工程师，拥有3年以上构建和部署可扩展MERN应用程序及AI集成的经验。",
+    "paragraph2": "我专注于端到端解决方案——从React.js和Next.js的高性能前端到Node.js、Express.js、Spring Boot和Django的强大后端系统。",
+    "paragraph3": "我的特色是AI集成。我已构建集成Gemini AI的生产应用——包括智能搜索、代码辅导、产品比较引擎和对话机器人。",
+    "paragraph4": "我在DSA、系统设计和后端工程方面有扎实的基础，包括JWT、Google OAuth、RBAC、Docker、CI/CD以及AWS、Vercel和Render上的云部署。",
+    "paragraph5": "除开发外，我还开展MERN和DSA结构化培训课程——使我能够清晰地传达复杂系统。",
+    "paragraph6": "我正在积极寻找全栈工程职位，在高绩效团队中构建智能、可扩展的产品。"
+  },
+  "services": {
+    "heading": "我的服务",
+    "content": "从前端到全栈的端到端开发服务。"
+  },
+  "experience": {
+    "heading": "我的经验",
+    "content": "在全栈开发、AI集成和工程职位方面的专业经验。",
+    "items": {
+      "freelance_current": {
+        "title": "Full-Stack Software Engineer",
+        "company": "Freelance — Remote / Coimbatore",
+        "description": "Architecting and delivering production-grade MERN + AI client projects integrating Gemini AI APIs, Socket.io real-time features, and Razorpay payment gateways end-to-end. Building reusable REST API structures with JWT authentication, RBAC, and Docker-based deployment, reducing project setup time by 40%. Designing and delivering cohort-based MERN and DSA programs, achieving 90%+ course completion rates.",
+        "period": "Mar 2026 – Present"
+      },
+      "amypo": {
+        "title": "Full-Stack Software Engineer",
+        "company": "Amypo Technologies Pvt. Ltd., Coimbatore",
+        "description": "Developed and deployed production-grade MERN applications using React, Node.js, Express, and MongoDB with JWT authentication, RBAC security, and role-based dashboards. Architected scalable RESTful APIs following controller-service-repository layered patterns, reducing average API latency by 30%. Implemented Docker-based CI/CD pipelines, reducing environment failures by 60% across 20+ engineering deployments.",
+        "period": "Jan 2025 – Feb 2026"
+      },
+      "prag": {
+        "title": "Python Developer & Associate Robotic Engineer",
+        "company": "Prag Robotics, Thanjavur",
+        "description": "Engineered Python and OpenCV automation pipelines reducing image processing time by 30% and improving ML-driven sensor accuracy from 85% to 94% via Flask REST services. Containerised microservices using Docker, cutting environment setup time by 50%. Refactored legacy automation scripts into modular service components, reducing code redundancy by 35%.",
+        "period": "Feb 2024 – Dec 2024"
+      },
+      "cadd": {
+        "title": "Application Developer",
+        "company": "CADD Centre Training Services, Thanjavur",
+        "description": "Built Java and Python backend applications using OOP and MVC principles, shipped with Git version control and Postman API testing, accelerating delivery cycles by 40%. Designed modular, reusable code structures for backend logic and API integration across multiple client-facing application builds.",
+        "period": "Feb 2023 – Dec 2023"
+      },
+      "freelance_early": {
+        "title": "Full-Stack Web Developer",
+        "company": "Freelance — Remote",
+        "description": "Delivered 10+ full-stack web applications for clients using React, Node.js, Express, and MongoDB with end-to-end ownership from requirements to production deployment. Developed REST APIs with JWT authentication, integrated third-party services, and built responsive mobile-first React frontends independently.",
+        "period": "May 2021 – Jan 2023"
+      }
+    }
+  },
+  "projects": {
+    "heading": "我的项目",
+    "content": "生产级MERN和AI集成应用——构建、部署和交付。",
+    "viewMore": "查看更多项目",
+    "items": {
+      "prepgenius": {
+        "title": "PrepGenius — AI Coding Interview Platform",
+        "description": "A full-stack MERN coding platform with Monaco Editor and Judge0 automated judging for 20 DSA problems. Gemini AI post-submission mentor streams time/space complexity analysis and interview coaching via Server-Sent Events. Features 3-level progressive hint system, real-time AI chat assistant, and personalised weekly skill roadmap."
+      },
+      "arocart": {
+        "title": "AroCart AI — AI-Powered E-Commerce Platform",
+        "description": "AI-powered e-commerce with Gemini smart search (intent detection), AI shopping assistant, and AI product comparison engine. Integrates Razorpay (UPI/Cards/COD) with HMAC SHA256 payment verification, Google OAuth, and 6-stage live order tracking across 64 products in 6 categories."
+      },
+      "quickhelp": {
+        "title": "QuickHelp — Real-Time Micro-Task Marketplace",
+        "description": "Two-sided MERN marketplace with Socket.io real-time bid notifications, live status updates, and helper online/offline tracking. Full task lifecycle — post, bid, accept, complete, confirm — with dispute resolution, RBAC-secured role-based dashboards, and admin moderation panel."
+      },
+      "queuely": {
+        "title": "Queuely — AI Appointment & Queue Management",
+        "description": "Smart appointment booking with live queue tracking showing real-time position and estimated wait time. AI scheduling assistant for optimal slot suggestions. Implements multi-service booking, staff management dashboard, and real-time queue updates via Socket.io."
+      },
+      "arocareer": {
+        "title": "AroCareer — AI-Powered Job Portal",
+        "description": "Job portal with AI resume analyser scoring resumes against job descriptions. Features AI cover letter generator, job-match scoring system, and personalised interview preparation powered by Gemini AI — giving candidates a complete AI-assisted job search experience."
+      },
+      "arobot": {
+        "title": "AroBot — AI Conversational Chatbot",
+        "description": "ChatGPT-style chat application with streaming AI responses, persistent conversation history, and markdown rendering. Integrates Gemini and Groq APIs with intelligent fallback handling. Polished dark-themed responsive UI optimised for fast, natural AI conversations."
+      },
+      "grocery": {
+        "title": "GrocerGo — 全栈生鲜配送应用",
+        "description": "生产就绪的生鲜配送平台，包含用户购物网站、管理员面板和带实时位置共享的配送员仪表板。具备管理员、用户和配送员的角色权限控制（RBAC）、实时订单追踪、自动化邮件以及通过Inngest后台任务自动分配配送员的功能。"
+      },
+      "netflix": {
+        "title": "Netflix克隆 — 全栈流媒体平台",
+        "description": "受Netflix启发的全栈流媒体平台，具有用户认证、电影/剧集浏览、类型筛选和个人观看列表功能。响应式UI配有流畅动画，集成TMDB API获取实时电影数据。"
+      },
+      "admin": {
+        "title": "React管理员仪表板",
+        "description": "功能完备的管理员仪表板，具有实时分析、交互式数据可视化以及用户、产品和订单的CRUD管理面板。包含深色/浅色模式、响应式布局和基于角色的访问控制。"
+      }
+    }
+  },
+  "contact": {
+    "heading": "取得联系",
+    "description": "直接联系我",
+    "or": "或通过此表单。",
+    "name": "姓名 *",
+    "namePlaceholder": "您的姓名",
+    "email": "电子邮件 *",
+    "emailPlaceholder": "hello@gmail.com",
+    "message": "消息 *",
+    "messagePlaceholder": "你好！有什么我可以帮助的？",
+    "submit": "提交",
+    "sending": "发送中...",
+    "success": "感谢您的联系！我会尽快回复您。",
+    "error": "出了点问题。请重试。"
+  },
+  "common": {
+    "skipToContent": "跳转到内容",
+    "navigation": "导航"
+  }
+}

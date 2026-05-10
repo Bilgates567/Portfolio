@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "about": "私について",
+    "services": "サービス",
+    "experience": "経験",
+    "projects": "プロジェクト",
+    "contact": "お問い合わせ"
+  },
+  "intro": {
+    "available": "お仕事承り中！",
+    "location": "現在インドのタンジャーヴールに在住 — リモートおよび転居可能",
+    "greeting": "こんにちは、私は",
+    "name": "Arockia Bilgates",
+    "title": "MERNとAIアプリケーションを専門とするフルスタック開発者。",
+    "description": "React、Next.js、Node.js、Express、MongoDBを使用してスケーラブルなプロダクショングレードのWebアプリケーションを構築しています — AIインテグレーションをコアとして。REST API、リアルタイムシステム、Gemini AIプロダクトの出荷において3年以上の実践経験を持ちます。",
+    "getInTouch": "お問い合わせ",
+    "viewProjects": "プロジェクトを見る",
+    "downloadCV": "CVをダウンロード"
+  },
+  "about": {
+    "heading": "私について",
+    "paragraph1": "私はArockia Bilgatesです。インドのタンジャーヴールを拠点とするフルスタックソフトウェアエンジニアで、MERNとAIインテグレーションを使ったスケーラブルなWebアプリケーションの構築とデプロイに3年以上の経験を持ちます。",
+    "paragraph2": "React.jsとNext.jsによる高性能フロントエンドから、Node.js、Express.js、Spring Boot、Djangoによる堅牢なバックエンドシステムまで、エンドツーエンドのソリューションを専門としています。",
+    "paragraph3": "私の特徴はAIインテグレーションです。スマート検索、コードメンタリング、製品比較エンジン、会話型チャットボットのためにGemini AIを組み込んだプロダクションアプリを構築してきました。",
+    "paragraph4": "DSA、システム設計、バックエンドエンジニアリングに強固な基盤を持ち、JWT、Google OAuth、RBAC、Docker、CI/CD、AWS・Vercel・Renderへのクラウドデプロイを含みます。",
+    "paragraph5": "開発に加えて、構造化されたMERNおよびDSAプログラムを実施しており、複雑なシステムをわかりやすく伝える能力を持っています。",
+    "paragraph6": "高パフォーマンスのチームでインテリジェントでスケーラブルなプロダクトを構築できるフルスタックエンジニアリングの役割を積極的に求めています。"
+  },
+  "services": {
+    "heading": "私のサービス",
+    "content": "フロントエンドからフルスタックまでのエンドツーエンド開発サービス。"
+  },
+  "experience": {
+    "heading": "私の経験",
+    "content": "フルスタック開発、AIインテグレーション、エンジニアリング職における職業経験。",
+    "items": {
+      "freelance_current": {
+        "title": "Full-Stack Software Engineer",
+        "company": "Freelance — Remote / Coimbatore",
+        "description": "Architecting and delivering production-grade MERN + AI client projects integrating Gemini AI APIs, Socket.io real-time features, and Razorpay payment gateways end-to-end. Building reusable REST API structures with JWT authentication, RBAC, and Docker-based deployment, reducing project setup time by 40%. Designing and delivering cohort-based MERN and DSA programs, achieving 90%+ course completion rates.",
+        "period": "Mar 2026 – Present"
+      },
+      "amypo": {
+        "title": "Full-Stack Software Engineer",
+        "company": "Amypo Technologies Pvt. Ltd., Coimbatore",
+        "description": "Developed and deployed production-grade MERN applications using React, Node.js, Express, and MongoDB with JWT authentication, RBAC security, and role-based dashboards. Architected scalable RESTful APIs following controller-service-repository layered patterns, reducing average API latency by 30%. Implemented Docker-based CI/CD pipelines, reducing environment failures by 60% across 20+ engineering deployments.",
+        "period": "Jan 2025 – Feb 2026"
+      },
+      "prag": {
+        "title": "Python Developer & Associate Robotic Engineer",
+        "company": "Prag Robotics, Thanjavur",
+        "description": "Engineered Python and OpenCV automation pipelines reducing image processing time by 30% and improving ML-driven sensor accuracy from 85% to 94% via Flask REST services. Containerised microservices using Docker, cutting environment setup time by 50%. Refactored legacy automation scripts into modular service components, reducing code redundancy by 35%.",
+        "period": "Feb 2024 – Dec 2024"
+      },
+      "cadd": {
+        "title": "Application Developer",
+        "company": "CADD Centre Training Services, Thanjavur",
+        "description": "Built Java and Python backend applications using OOP and MVC principles, shipped with Git version control and Postman API testing, accelerating delivery cycles by 40%. Designed modular, reusable code structures for backend logic and API integration across multiple client-facing application builds.",
+        "period": "Feb 2023 – Dec 2023"
+      },
+      "freelance_early": {
+        "title": "Full-Stack Web Developer",
+        "company": "Freelance — Remote",
+        "description": "Delivered 10+ full-stack web applications for clients using React, Node.js, Express, and MongoDB with end-to-end ownership from requirements to production deployment. Developed REST APIs with JWT authentication, integrated third-party services, and built responsive mobile-first React frontends independently.",
+        "period": "May 2021 – Jan 2023"
+      }
+    }
+  },
+  "projects": {
+    "heading": "私のプロジェクト",
+    "content": "プロダクショングレードのMERNおよびAI統合アプリケーション — 構築、デプロイ、出荷済み。",
+    "viewMore": "プロジェクトをもっと見る",
+    "items": {
+      "prepgenius": {
+        "title": "PrepGenius — AI Coding Interview Platform",
+        "description": "A full-stack MERN coding platform with Monaco Editor and Judge0 automated judging for 20 DSA problems. Gemini AI post-submission mentor streams time/space complexity analysis and interview coaching via Server-Sent Events. Features 3-level progressive hint system, real-time AI chat assistant, and personalised weekly skill roadmap."
+      },
+      "arocart": {
+        "title": "AroCart AI — AI-Powered E-Commerce Platform",
+        "description": "AI-powered e-commerce with Gemini smart search (intent detection), AI shopping assistant, and AI product comparison engine. Integrates Razorpay (UPI/Cards/COD) with HMAC SHA256 payment verification, Google OAuth, and 6-stage live order tracking across 64 products in 6 categories."
+      },
+      "quickhelp": {
+        "title": "QuickHelp — Real-Time Micro-Task Marketplace",
+        "description": "Two-sided MERN marketplace with Socket.io real-time bid notifications, live status updates, and helper online/offline tracking. Full task lifecycle — post, bid, accept, complete, confirm — with dispute resolution, RBAC-secured role-based dashboards, and admin moderation panel."
+      },
+      "queuely": {
+        "title": "Queuely — AI Appointment & Queue Management",
+        "description": "Smart appointment booking with live queue tracking showing real-time position and estimated wait time. AI scheduling assistant for optimal slot suggestions. Implements multi-service booking, staff management dashboard, and real-time queue updates via Socket.io."
+      },
+      "arocareer": {
+        "title": "AroCareer — AI-Powered Job Portal",
+        "description": "Job portal with AI resume analyser scoring resumes against job descriptions. Features AI cover letter generator, job-match scoring system, and personalised interview preparation powered by Gemini AI — giving candidates a complete AI-assisted job search experience."
+      },
+      "arobot": {
+        "title": "AroBot — AI Conversational Chatbot",
+        "description": "ChatGPT-style chat application with streaming AI responses, persistent conversation history, and markdown rendering. Integrates Gemini and Groq APIs with intelligent fallback handling. Polished dark-themed responsive UI optimised for fast, natural AI conversations."
+      },
+      "grocery": {
+        "title": "GrocerGo — フルスタック食料品配達アプリ",
+        "description": "ユーザー向けショッピングサイト、管理パネル、リアルタイム位置共有機能を備えた配達パートナーダッシュボードを含む本番対応の食料品配達プラットフォーム。管理者・ユーザー・配達パートナーのRBAC、リアルタイム注文追跡、自動メール通知、Inngestバックグラウンドジョブによる配達パートナーの自動割り当てを実装。"
+      },
+      "netflix": {
+        "title": "Netflixクローン — フルスタックストリーミングプラットフォーム",
+        "description": "Netflixにインスパイアされたフルスタックストリーミングプラットフォーム。ユーザー認証、映画・シリーズ閲覧、ジャンルフィルタリング、個人ウォッチリスト機能を備え、TMDB API連携でリアルタイム映画データを取得。"
+      },
+      "admin": {
+        "title": "React管理ダッシュボード",
+        "description": "リアルタイム分析、インタラクティブなデータ可視化、ユーザー・製品・注文のCRUD管理パネルを備えた本格的な管理ダッシュボード。ダーク/ライトモード、レスポンシブレイアウト、RBACを含む。"
+      }
+    }
+  },
+  "contact": {
+    "heading": "お問い合わせ",
+    "description": "直接こちらへご連絡ください",
+    "or": "またはこのフォームからご連絡ください。",
+    "name": "お名前 *",
+    "namePlaceholder": "あなたのお名前",
+    "email": "メールアドレス *",
+    "emailPlaceholder": "hello@gmail.com",
+    "message": "メッセージ *",
+    "messagePlaceholder": "こんにちは！どのようなご用件ですか？",
+    "submit": "送信",
+    "sending": "送信中...",
+    "success": "ご連絡ありがとうございます！すぐにご連絡いたします。",
+    "error": "問題が発生しました。もう一度お試しください。"
+  },
+  "common": {
+    "skipToContent": "コンテンツへスキップ",
+    "navigation": "ナビゲーション"
+  }
+}

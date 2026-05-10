@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Chi sono",
+    "services": "Servizi",
+    "experience": "Esperienza",
+    "projects": "Progetti",
+    "contact": "Contatto"
+  },
+  "intro": {
+    "available": "Disponibile per lavorare!",
+    "location": "Attualmente a Thanjavur, India — aperto al remote e alla ricollocazione",
+    "greeting": "Ciao, sono",
+    "name": "Arockia Bilgates",
+    "title": "Sviluppatore Full Stack specializzato in MERN e applicazioni AI.",
+    "description": "Creo applicazioni web scalabili e production-grade con React, Next.js, Node.js, Express e MongoDB — con l'integrazione dell'AI al centro. Oltre 3 anni di esperienza nella consegna di REST API, sistemi in tempo reale e prodotti Gemini AI.",
+    "getInTouch": "Contattami",
+    "viewProjects": "Vedi progetti",
+    "downloadCV": "Scarica CV"
+  },
+  "about": {
+    "heading": "Chi sono",
+    "paragraph1": "Sono Arockia Bilgates, un Ingegnere Software Full Stack con sede a Thanjavur, India, con oltre 3 anni di esperienza nella creazione e nel deployment di applicazioni web scalabili con MERN e integrazione AI.",
+    "paragraph2": "Mi specializzo in soluzioni end-to-end — da frontend ad alte prestazioni con React.js e Next.js a sistemi backend robusti con Node.js, Express.js, Spring Boot e Django.",
+    "paragraph3": "Ciò che mi distingue è l'integrazione dell'AI. Ho creato applicazioni di produzione con Gemini AI per la ricerca intelligente, il mentoring del codice, i motori di confronto dei prodotti e i chatbot conversazionali.",
+    "paragraph4": "Ho solide basi in DSA, progettazione di sistemi e sviluppo backend, inclusi JWT, Google OAuth, RBAC, Docker, CI/CD e deployment su AWS, Vercel e Render.",
+    "paragraph5": "Oltre allo sviluppo, conduco programmi strutturati di MERN e DSA — il che mi permette di comunicare sistemi complessi con chiarezza.",
+    "paragraph6": "Sto cercando attivamente ruoli di ingegneria full stack per costruire prodotti intelligenti e scalabili in un team ad alte prestazioni."
+  },
+  "services": {
+    "heading": "I miei Servizi",
+    "content": "Servizi di sviluppo end-to-end, dal frontend al full stack."
+  },
+  "experience": {
+    "heading": "La mia Esperienza",
+    "content": "Esperienza professionale nello sviluppo full stack, integrazione AI e ruoli ingegneristici.",
+    "items": {
+      "freelance_current": {
+        "title": "Full-Stack Software Engineer",
+        "company": "Freelance — Remote / Coimbatore",
+        "description": "Architecting and delivering production-grade MERN + AI client projects integrating Gemini AI APIs, Socket.io real-time features, and Razorpay payment gateways end-to-end. Building reusable REST API structures with JWT authentication, RBAC, and Docker-based deployment, reducing project setup time by 40%. Designing and delivering cohort-based MERN and DSA programs, achieving 90%+ course completion rates.",
+        "period": "Mar 2026 – Present"
+      },
+      "amypo": {
+        "title": "Full-Stack Software Engineer",
+        "company": "Amypo Technologies Pvt. Ltd., Coimbatore",
+        "description": "Developed and deployed production-grade MERN applications using React, Node.js, Express, and MongoDB with JWT authentication, RBAC security, and role-based dashboards. Architected scalable RESTful APIs following controller-service-repository layered patterns, reducing average API latency by 30%. Implemented Docker-based CI/CD pipelines, reducing environment failures by 60% across 20+ engineering deployments.",
+        "period": "Jan 2025 – Feb 2026"
+      },
+      "prag": {
+        "title": "Python Developer & Associate Robotic Engineer",
+        "company": "Prag Robotics, Thanjavur",
+        "description": "Engineered Python and OpenCV automation pipelines reducing image processing time by 30% and improving ML-driven sensor accuracy from 85% to 94% via Flask REST services. Containerised microservices using Docker, cutting environment setup time by 50%. Refactored legacy automation scripts into modular service components, reducing code redundancy by 35%.",
+        "period": "Feb 2024 – Dec 2024"
+      },
+      "cadd": {
+        "title": "Application Developer",
+        "company": "CADD Centre Training Services, Thanjavur",
+        "description": "Built Java and Python backend applications using OOP and MVC principles, shipped with Git version control and Postman API testing, accelerating delivery cycles by 40%. Designed modular, reusable code structures for backend logic and API integration across multiple client-facing application builds.",
+        "period": "Feb 2023 – Dec 2023"
+      },
+      "freelance_early": {
+        "title": "Full-Stack Web Developer",
+        "company": "Freelance — Remote",
+        "description": "Delivered 10+ full-stack web applications for clients using React, Node.js, Express, and MongoDB with end-to-end ownership from requirements to production deployment. Developed REST APIs with JWT authentication, integrated third-party services, and built responsive mobile-first React frontends independently.",
+        "period": "May 2021 – Jan 2023"
+      }
+    }
+  },
+  "projects": {
+    "heading": "I miei Progetti",
+    "content": "Applicazioni MERN di produzione integrate con AI — costruite, deployate e consegnate.",
+    "viewMore": "Vedi altri progetti",
+    "items": {
+      "prepgenius": {
+        "title": "PrepGenius — AI Coding Interview Platform",
+        "description": "A full-stack MERN coding platform with Monaco Editor and Judge0 automated judging for 20 DSA problems. Gemini AI post-submission mentor streams time/space complexity analysis and interview coaching via Server-Sent Events. Features 3-level progressive hint system, real-time AI chat assistant, and personalised weekly skill roadmap."
+      },
+      "arocart": {
+        "title": "AroCart AI — AI-Powered E-Commerce Platform",
+        "description": "AI-powered e-commerce with Gemini smart search (intent detection), AI shopping assistant, and AI product comparison engine. Integrates Razorpay (UPI/Cards/COD) with HMAC SHA256 payment verification, Google OAuth, and 6-stage live order tracking across 64 products in 6 categories."
+      },
+      "quickhelp": {
+        "title": "QuickHelp — Real-Time Micro-Task Marketplace",
+        "description": "Two-sided MERN marketplace with Socket.io real-time bid notifications, live status updates, and helper online/offline tracking. Full task lifecycle — post, bid, accept, complete, confirm — with dispute resolution, RBAC-secured role-based dashboards, and admin moderation panel."
+      },
+      "queuely": {
+        "title": "Queuely — AI Appointment & Queue Management",
+        "description": "Smart appointment booking with live queue tracking showing real-time position and estimated wait time. AI scheduling assistant for optimal slot suggestions. Implements multi-service booking, staff management dashboard, and real-time queue updates via Socket.io."
+      },
+      "arocareer": {
+        "title": "AroCareer — AI-Powered Job Portal",
+        "description": "Job portal with AI resume analyser scoring resumes against job descriptions. Features AI cover letter generator, job-match scoring system, and personalised interview preparation powered by Gemini AI — giving candidates a complete AI-assisted job search experience."
+      },
+      "arobot": {
+        "title": "AroBot — AI Conversational Chatbot",
+        "description": "ChatGPT-style chat application with streaming AI responses, persistent conversation history, and markdown rendering. Integrates Gemini and Groq APIs with intelligent fallback handling. Polished dark-themed responsive UI optimised for fast, natural AI conversations."
+      },
+      "grocery": {
+        "title": "GrocerGo — App Full Stack per la Consegna di Generi Alimentari",
+        "description": "Piattaforma di consegna alimentare pronta per la produzione con sito di shopping, pannello di amministrazione e dashboard dei corrieri con condivisione della posizione in tempo reale. Include RBAC per ruoli Admin, Utente e Corriere, tracciamento degli ordini in tempo reale, e-mail automatizzate e assegnazione automatica dei corrieri tramite job in background Inngest."
+      },
+      "netflix": {
+        "title": "Netflix Clone — Piattaforma di Streaming Full Stack",
+        "description": "Piattaforma di streaming full stack ispirata a Netflix con autenticazione utente, navigazione di film e serie, filtro per genere e watchlist personalizzata. UI responsive con animazioni fluide e integrazione API TMDB."
+      },
+      "admin": {
+        "title": "Dashboard Admin React",
+        "description": "Dashboard amministrativo completo con analisi in tempo reale, visualizzazioni dati interattive e pannelli CRUD per utenti, prodotti e ordini. Include modalità scura/chiara, layout responsive e controllo accessi basato sui ruoli."
+      }
+    }
+  },
+  "contact": {
+    "heading": "Mettersi in contatto",
+    "description": "Contattami direttamente a",
+    "or": "o tramite questo modulo.",
+    "name": "Nome *",
+    "namePlaceholder": "Il tuo nome",
+    "email": "E-mail *",
+    "emailPlaceholder": "ciao@gmail.com",
+    "message": "Messaggio *",
+    "messagePlaceholder": "Ciao! Come posso aiutarti?",
+    "submit": "Invia",
+    "sending": "Invio in corso...",
+    "success": "Grazie per avermi contattato! Ti risponderò presto.",
+    "error": "Qualcosa è andato storto. Per favore riprova."
+  },
+  "common": {
+    "skipToContent": "Vai al contenuto",
+    "navigation": "Navigazione"
+  }
+}
