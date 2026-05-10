@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
+  "private": true,
   "engines": {
     "node": "20.x"
   },
@@ -14,7 +15,7 @@
     "format:check": "prettier --check \"**/*.{ts,tsx,mdx}\" --cache",
     "format:write": "prettier --write \"**/*.{ts,tsx,mdx}\" --cache",
     "typecheck": "tsc --noEmit",
-    "postbuild": "next-sitemap --config next-sitemap.config.js",
+    "postbuild": "next-sitemap --config next-sitemap.config.js || true",
     "prepare": "husky || true"
   },
   "husky": {
