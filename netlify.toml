@@ -1,7 +1,6 @@
 [build]
-  base = "arockia_portfolio"
   command = "npm run build"
-  publish = "arockia_portfolio/.next"
+  publish = ".next"
 
 [build.environment]
   NODE_VERSION = "20"
